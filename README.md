@@ -1,5 +1,7 @@
 # germany-53-21-districts
 
+--- this is an updated version of germany-53-17-districts using 2021 counties ---
+
 This repository provides historic, comparable county-level election results for West Germany. The final dataset contains estimates for the vote share for each election since 1953 (within the boundaries of the 2021 counties). The conversion of past into current counties benefits from the way that German counties were modified: Usually two or more old counties were merged entirely into a new one.
 
 In order to convert historic election results into the 2021 counties, I use geodata. More specifically, I calculate the share of historic counties that lie within the boundaries of 2023 counties. Subsequently, I multiply these shares with the election results of each year. This requires the assumption, that the vote share was distributed equally throughout the county. Note that the geographical share of a county is different to the population share of a county. The geographical changes are likely greater than the actual population changes as county borders are more likely redrawn in rural, less densely populated areas.
