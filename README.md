@@ -40,11 +40,14 @@ The same applies to the correlation of the CDU/CSU vote share.
 
 
 
+# Textbooks
+
+- Munzert, Simon, Christian Rubba, Peter Meißner, Dominic Nyhuis (2014). Automated Data Collection with R – A Practical Guide to Web Scraping and Text Mining. *John Wiley & Sons*, Chichester. [https://doi.org/10.1002/9781118834732](https://doi.org/10.1002/9781118834732)
+- Grolemund, G., & Wickham, H. (2023). R for Data Science (2nd Edition). *O’Reilly Media*. [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)
 
 
 
-
-## Author information
+## Author
 
 *Cornelius Erfort*
 
